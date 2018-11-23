@@ -1,7 +1,7 @@
 -wonbin
 
 1. I chose necessary 13 classes among 50 classes:
-    19 thunder -> 0
+    19 thunder
     30 wood knock
     15 water_drops
     12 crackling fire
@@ -13,7 +13,7 @@
     21 sneezing
     16 wind0
     26 laughing
-    42 siren -> 12
+    42 siren
 total 520 samples among 2000 samples
 
 2. I made a network exactly same with the paper (Yuji Tokozume),
