@@ -18,5 +18,5 @@ total 520 samples among 2000 samples
 
 2. I made a network exactly same with the paper (Yuji Tokozume),
    but it is too big nets, so I cannot handle on my desktop
-   if we want to make same nets with the paper, we need several parallel computers, which is impossible.
+   if we want to make same nets with the paper, we need several parallel computers and more data, which is impossible.
    so, I downsized the network.
