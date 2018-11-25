@@ -16,7 +16,7 @@
     42 siren
 total 520 samples among 2000 samples
 
-2. I chose necessary 13 classes among 50 classes of AED:
+2. I chose necessary 13 classes among 28 classes of AED:
 'applause', 'dog', 'glass', 'knock', 'laughter', 'scream', 'tone', 'water'
 total 1208 samples among 5223 samples
 
